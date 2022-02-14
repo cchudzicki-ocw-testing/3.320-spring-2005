@@ -7,7 +7,12 @@ description: 'This file is an annotated version of class notes "Monte Carlo Simu
   Monte Carlo method, and simple sampling for materials, ising model, and cartographers.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/d76afd7a5c3467f476ab950dea92aa94_4_07_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 4_07_note.pdf
+type: OCWFile
 uid: d76afd7a-5c34-67f4-76ab-950dea92aa94
 ---

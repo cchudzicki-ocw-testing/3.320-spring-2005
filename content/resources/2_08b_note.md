@@ -5,7 +5,12 @@ description: This file is an annotated version of class note "It's a Quantum Wor
   and time-dependent Schrodinger?s equation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/c92aed224a0b5c40b5976520ca87cf79_2_08b_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 2_08b_note.pdf
+type: OCWFile
 uid: c92aed22-4a0b-5c40-b597-6520ca87cf79
 ---

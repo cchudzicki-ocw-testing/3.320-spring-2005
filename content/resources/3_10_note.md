@@ -7,7 +7,12 @@ description: This file is an annotated version of class notes "Excitations in Ma
   relevant degrees of freedom with examples.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/2430ddd7555ed44599cc4a7f26d31b07_3_10_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 3_10_note.pdf
+type: OCWFile
 uid: 2430ddd7-555e-d445-99cc-4a7f26d31b07
 ---

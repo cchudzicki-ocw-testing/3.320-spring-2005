@@ -6,7 +6,12 @@ description: 'This file is an annotated version of class notes "First Principles
   equations, Pauli principle, and Koopmans? theorems.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/8199ab9fd03161cdcf237e5c4cbfce49_2_15_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 2_15_note.pdf
+type: OCWFile
 uid: 8199ab9f-d031-61cd-cf23-7e5c4cbfce49
 ---

@@ -6,7 +6,12 @@ description: This file is an annotated version of class notes "Monte Carlo Simul
   and umbrella sampling.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/052ae15a6265b42123567a56d822316e_4_12_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 4_12_note.pdf
+type: OCWFile
 uid: 052ae15a-6265-b421-2356-7a56d822316e
 ---

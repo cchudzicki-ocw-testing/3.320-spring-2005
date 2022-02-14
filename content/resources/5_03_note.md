@@ -8,7 +8,12 @@ description: This file is an annotated version of class notes "Accelerated Molec
   theory.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/61ce71abb981a9222049a9be2c794297_5_03_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 5_03_note.pdf
+type: OCWFile
 uid: 61ce71ab-b981-a922-2049-a9be2c794297
 ---
