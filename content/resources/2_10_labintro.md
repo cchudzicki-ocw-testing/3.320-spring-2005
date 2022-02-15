@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 2_10_labintro.pdf
-type: OCWFile
 uid: 7a0d6dbd-3d8c-3b06-abc0-cad3a01057f8
 ---

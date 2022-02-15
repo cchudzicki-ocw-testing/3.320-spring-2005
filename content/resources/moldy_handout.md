@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: moldy_handout.pdf
-type: OCWFile
 uid: 5cad74b5-8dec-73c1-1015-3d7341b2ec1e
 ---

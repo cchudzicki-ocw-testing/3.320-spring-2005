@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: pwscf_handout.pdf
-type: OCWFile
 uid: b5179173-234e-7351-3a10-bd4dde535da0
 ---

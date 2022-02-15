@@ -12,6 +12,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab_assign4_soln.pdf
-type: OCWFile
 uid: 9bc98c47-972f-5df6-ed5c-71ddad773fdf
 ---

@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: gulp_handout.pdf
-type: OCWFile
 uid: 89eaca28-9733-efb7-6a28-e86949e130fb
 ---

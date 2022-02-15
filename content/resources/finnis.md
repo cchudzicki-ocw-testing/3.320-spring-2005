@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: finnis.pdf
-type: OCWFile
 uid: 29db093a-38f8-50da-c2a2-ecaef4f9d822
 ---

@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab3_problem_set.pdf
-type: OCWFile
 uid: a8c26f60-02bf-0b79-fe62-bce836f0301f
 ---
