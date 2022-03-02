@@ -19,7 +19,7 @@ Daw, M. S., S. M. Foiles, and M. I. Baskes. "The embedded-atom method: a review 
 
 Gibson, J. B., et al. "Dynamics of Radiation Damage." _Physical Review_ 120, no. 4 (1960): 1229-1253.
 
-References for Potential and Functional Models ({{< resource_link b68e14ab-2512-3a31-1928-4fa6cae57b6a "PDF" >}})
+References for Potential and Functional Models ({{% resource_link b68e14ab-2512-3a31-1928-4fa6cae57b6a "PDF" %}})
 
 First Principles
 ----------------
