@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2_17_note.pdf
 uid: c2328590-7f82-2f3c-6320-29c177f916a6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

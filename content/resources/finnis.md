@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: finnis.pdf
 uid: 29db093a-38f8-50da-c2a2-ecaef4f9d822
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab3_handout.pdf
 uid: 24f633ec-df80-e676-1183-769da9bb7388
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

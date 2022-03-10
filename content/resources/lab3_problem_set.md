@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab3_problem_set.pdf
 uid: a8c26f60-02bf-0b79-fe62-bce836f0301f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

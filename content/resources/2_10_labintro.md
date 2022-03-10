@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2_10_labintro.pdf
 uid: 7a0d6dbd-3d8c-3b06-abc0-cad3a01057f8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

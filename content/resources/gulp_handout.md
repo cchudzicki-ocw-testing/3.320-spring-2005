@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gulp_handout.pdf
 uid: 89eaca28-9733-efb7-6a28-e86949e130fb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 15296d54-84c9-9da1-6512-15965923b1cd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents lecture slides in two versions: the original slides, and annotated slides with markup by the instructors, as captured during the lecture sessions.

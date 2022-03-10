@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: emp_energy_refs.pdf
 uid: b68e14ab-2512-3a31-1928-4fa6cae57b6a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

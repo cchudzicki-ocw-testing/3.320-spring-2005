@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab_assignment5.pdf
 uid: 241f5aa0-f2ab-0ba7-8345-862ecb076c90
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

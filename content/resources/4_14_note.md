@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 4_14_note.pdf
 uid: 53fc28be-0bc9-3216-eef4-21b392a8526f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

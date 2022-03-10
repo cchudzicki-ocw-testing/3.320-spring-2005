@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pwscf_handout.pdf
 uid: b5179173-234e-7351-3a10-bd4dde535da0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

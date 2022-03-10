@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab_assign2_soln.pdf
 uid: 92d85f09-e6d1-bed3-c2f3-2cef877417a7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

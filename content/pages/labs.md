@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: 4e3b32c3-b8ab-32af-dae9-bdfc1301e7fe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Five class lectures are devoted to computer simulation labs. For each lab, students are required to complete a set of assigned problems.
