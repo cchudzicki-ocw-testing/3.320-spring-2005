@@ -90,7 +90,7 @@ Lab 3: Density Functional Theory II ({{% resource_link a8c26f60-02bf-0b79-fe62-b
 
 Quantum-Espresso: A First Principles Code, Part 2 ({{% resource_link 24f633ec-df80-e676-1183-769da9bb7388 "PDF" %}})
 
-INPUT\_PW.txt ([TXT](/courses/materials-science-and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/labs/INPUT_PW.txt))
+INPUT\_PW.txt ({{% resource_link 02a56238-0e0f-4ed2-d2ec-e2fed226197c "TXT" %}})
 
 Data Files ({{% resource_link d8f0936c-291f-feb2-8cb0-51a169ccbb23 "ZIP" %}}) (The ZIP file contains: 4 .in files, 5 .UPF files, 3 .bash files, 8 .j files, and 5 .sh files.)
 
@@ -136,7 +136,7 @@ Lab 5: Monte Carlo ({{% resource_link 241f5aa0-f2ab-0ba7-8345-862ecb076c90 "PDF"
 
 2DMC-1.0.jar ({{% resource_link 5abf8b43-284e-e7e0-27e8-85e2d4d5954f "JAR" %}})
 
-input\_example.txt ([TXT](/courses/materials-science-and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/labs/input_example.txt))
+input\_example.txt ({{% resource_link b3c9dfc3-7134-a822-bef3-07facc7c6b1e "TXT" %}})
 
 
 {{< tdclose >}}
