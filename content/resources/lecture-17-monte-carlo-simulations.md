@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Monte Carlo Simulations: Application to Lattice Models, Sampling Errors, Metastability
 
 **Instructor:** Prof. Gerbrand Ceder
+

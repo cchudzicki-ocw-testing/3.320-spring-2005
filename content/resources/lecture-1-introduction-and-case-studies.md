@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Introduction and Case Studies
 
 **Instructor:** Prof. Gerbrand Ceder
+

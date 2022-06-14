@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Free Energies and Physical Coarse-Graining
 
 **Instructor:** Prof. Gerbrand Ceder
+

@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Prof. Gerbrand Ceder, Prof. Nicola Marzari
 
 **Note:** Lecture 4 was a lab session. No video is available.
+

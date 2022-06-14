@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** First Principles Energy Methods: Hartree-Fock and DFT
 
 **Instructor:** Prof. Nicola Marzari
+

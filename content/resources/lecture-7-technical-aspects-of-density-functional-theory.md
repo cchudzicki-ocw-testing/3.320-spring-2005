@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Technical Aspects of Density Functional Theory
 
 **Instructor:** Prof. Nicola Marzari
+

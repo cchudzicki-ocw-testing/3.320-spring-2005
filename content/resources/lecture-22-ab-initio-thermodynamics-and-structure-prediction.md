@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Ab-Initio Thermodynamics and Structure Prediction
 
 **Instructor:** Prof. Gerbrand Ceder
+

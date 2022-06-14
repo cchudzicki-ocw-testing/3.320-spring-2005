@@ -30,3 +30,4 @@ video_metadata:
 Conclusions
 
 **Instructor:** Prof. Nicola Marzari, Prof. Gerbrand Ceder
+

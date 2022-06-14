@@ -4,7 +4,7 @@ description: 'This file is an annotated version of class note "Introduction to t
   Course and Pair Potentials" and explains system sizes and periodicity, limitations
   of pair potentials: application to physical quantities, the embedding function,
   effective medium theories: the embedded atom method, and EAM: the physical concept.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/b44fe2f07f6711c37459c0bbc3bbcde8_2_03_note.pdf
+file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/b44fe2f07f6711c37459c0bbc3bbcde8_2_03_note.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -20,3 +20,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file is an annotated version of class note "Introduction to the Course and Pair Potentials" and explains system sizes and periodicity, limitations of pair potentials: application to physical quantities, the embedding function, effective medium theories: the embedded atom method, and EAM: the physical concept.

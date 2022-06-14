@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Prof. Gerbrand Ceder
 
 **Note:** No video is available for Lecture 24.
+

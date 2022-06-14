@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Monte Carlo Simulation II and Free Energies
 
 **Instructor:** Prof. Gerbrand Ceder
+

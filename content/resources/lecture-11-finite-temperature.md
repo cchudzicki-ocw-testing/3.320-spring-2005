@@ -30,3 +30,4 @@ video_metadata:
 Excitations in Materials and How to Sample Them
 
 **Instructor:** Prof. Gerbrand Ceder
+

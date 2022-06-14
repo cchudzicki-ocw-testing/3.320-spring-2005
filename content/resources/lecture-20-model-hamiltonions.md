@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Prof. Nicola Marzari
 
 Note: Lecture 22 was a lab session. No video is available.
+
