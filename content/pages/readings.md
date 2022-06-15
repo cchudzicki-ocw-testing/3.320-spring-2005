@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section contains list of readings associated with topics
+  of emperical potentials, first principles, and molecular dynamics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

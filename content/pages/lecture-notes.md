@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: It includes detailed lecture material used in this course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
